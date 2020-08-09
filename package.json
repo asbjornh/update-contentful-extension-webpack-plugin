@@ -1,0 +1,29 @@
+{
+  "name": "update-contentful-extension-webpack-plugin",
+  "version": "0.1.0",
+  "description": "Webpack plugin for updating Contentful extensions",
+  "main": "index.js",
+  "files": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asbjornh/update-contentful-extension-webpack-plugin.git"
+  },
+  "keywords": [
+    "contentful",
+    "extension",
+    "update",
+    "webpack"
+  ],
+  "author": "Asbjørn Hegdahl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asbjornh/update-contentful-extension-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/asbjornh/update-contentful-extension-webpack-plugin#readme",
+  "dependencies": {
+    "contentful-cli": "^0.33.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.6.0"
+  }
+}
